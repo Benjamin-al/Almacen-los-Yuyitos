@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BarCode</id>
+    <version>2020.5.0</version>
+    <title>Iron Barcode.  The C# and .Net Barcode &amp; QR Library</title>
+    <authors>https://ironsoftware.com/</authors>
+    <owners>https://ironsoftware.com/</owners>
+    <licenseUrl>http://ironsoftware.com/csharp/barcode/licensing/</licenseUrl>
+    <projectUrl>https://ironsoftware.com/csharp/barcode/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/barcode/2020.5.0/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>IronBarcode - The C# Barcode &amp; QR Library
+
+
+-------------------------------------------
+
+
+IronBarcode allows developers to read &amp; write Barcodes and QR Codes within .Net Applications &amp; websites. Reading or writing barcodes onkly requires a single line of code with Iron Barcode.  
+
+The .Net Barcode Library reads and writes most Barcode and QR standards. These include code 39/93/128, UPC A/E, EAN 8/13, ITF, RSS 14 / Expanded, Databar, CodaBar, Aztec, Data Matrix, MaxiCode, PDF417, MSI, Plessey, USPS, and QR. The barcode result data includes type, text, binary data, page, and image file.
+
+Barcode reading engine includes automatic image correction and barcode detection technology to take the pain out of locating and reading from imperfect scans. Multithreading, cropping, and batch scanning provides fast and accurate scanning of multi page documents.
+
+Barcode writing API checks and verifys format, length, number, checksum to automatically avoid encoding errors. Barcode writer allows for styling, resizing, margins, borders, recoloring, and adding text annotations. Write to image, PDF or HTML file.
+
+Key library features include:
+* Read single or multiple Barcodes and QR Codes from images or PDFs.
+* Image correction for skewing, orientation, noise, low resolution, contrast etc.
+* Create barcodes and apply to images or PDF documents.
+* Embed barcodes into html documents.
+* Style Barcodes and add annotation text.
+* QR Code Writing allows adding of logos, colors, and advanced QR alignment.
+
+IronBarcode can be used within C#, VB.NET, ASP .NET projects, MVC, Web Services, Console &amp; Desktop Applications.
+
+Requires .Net Framework 4.0 or above on the Windows platform. Compatible with cloud hosting services including Microsoft Azure.
+
+Licensing &amp; Support available for commercial deployments.
+
+For code examples, documentation &amp; more visit https://ironsoftware.com/csharp/barcode/
+
+For support please email us at developers@ironsoftware.com</description>
+    <summary>The Barcode Library for C# &amp; .Net</summary>
+    <releaseNotes>Now with Core and Standard Support: 
+* Fixed bug which  threw exceptions when rendering long numeric values for ITF, UPC and EAN 1D barcodes * Fixed bug which returned incorrect Barcode types during barcode reading
+* Improved PDF reading support (including PDF6) * Support for password protected PDFs * Improved QR reading accuracy * Allow customization of QR code symbol versions * Improved UPC Checking and Rendering
+* Fixed API typos</releaseNotes>
+    <copyright>2018-2020 Iron Software Barcode Development Team</copyright>
+    <language>en-US</language>
+    <tags>BarCode Barcode Bar-Code Bar Code QRCode QR Scanner Reader generator library C# PDF PNG HTML TIFF JPEG IMAGE BITMAP</tags>
+    <dependencies>
+      <group targetFramework="Unsupported0.0">
+        <dependency id="System.Drawing.Common" version="4.7.0" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Web" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

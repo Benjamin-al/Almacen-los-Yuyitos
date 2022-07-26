@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.SqlServer.Types</id>
+    <version>14.0.1016.290</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>https://go.microsoft.com/fwlink/?linkid=842810</licenseUrl>
+    <projectUrl>https://cloudblogs.microsoft.com/sqlserver/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Allows you to use SQL Server spatial types on a machine without SQL Server installed. Enables Entity Framework spatial types to be used (DbGeography and DbGeometry).</description>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>SQL spatial geometry geography azure EF EntityFramework DbGeography DbGeometry GIS geospatial OGC sql-server</tags>
+  </metadata>
+</package>

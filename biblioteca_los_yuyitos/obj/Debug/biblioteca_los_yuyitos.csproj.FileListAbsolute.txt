@@ -1,0 +1,35 @@
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Jose\Desktop\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Jose\Desktop\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Jose\Desktop\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Jose\Desktop\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\benja\Desktop\cosas de la u\portafolio\repositorio\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.dll
+C:\Users\benja\Desktop\cosas de la u\portafolio\repositorio\AlmacenYuyitos\biblioteca_los_yuyitos\bin\Debug\biblioteca_los_yuyitos.pdb
+C:\Users\benja\Desktop\cosas de la u\portafolio\repositorio\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\cosas de la u\portafolio\repositorio\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\cosas de la u\portafolio\repositorio\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.dll
+C:\Users\benja\Desktop\cosas de la u\portafolio\repositorio\AlmacenYuyitos\biblioteca_los_yuyitos\obj\Debug\biblioteca_los_yuyitos.pdb
