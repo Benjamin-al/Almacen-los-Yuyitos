@@ -1,0 +1,439 @@
+c:\users\benja\documents\visual studio 2013\Projects\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+c:\users\benja\documents\visual studio 2013\Projects\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+c:\users\benja\documents\visual studio 2013\Projects\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+c:\users\benja\documents\visual studio 2013\Projects\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+c:\users\benja\documents\visual studio 2013\Projects\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+c:\users\benja\documents\visual studio 2013\Projects\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Jose\Desktop\Proyecto Portafolio\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Jose\Desktop\Proyecto Portafolio\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Jose\Desktop\Proyecto Portafolio\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Jose\Desktop\Proyecto Portafolio\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\Proyecto Portafolio\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Proyecto Portafolio\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Jose\Desktop\Proyecto Portafolio\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Benja\Desktop\anexo p\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Jose\Desktop\icon\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Jose\Desktop\icon\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Jose\Desktop\icon\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Jose\Desktop\icon\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\icon\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\icon\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Jose\Desktop\icon\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Jose\Desktop\AlmacenYuyitosCompleto-copia\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Jose\Desktop\AlmacenYuyitosCompleto-copia\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Jose\Desktop\AlmacenYuyitosCompleto-copia\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Jose\Desktop\AlmacenYuyitosCompleto-copia\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\AlmacenYuyitosCompleto-copia\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\AlmacenYuyitosCompleto-copia\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Jose\Desktop\AlmacenYuyitosCompleto-copia\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 2\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 2\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 2\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 2\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 2\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 2\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Jose\Desktop\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Jose\Desktop\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Jose\Desktop\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Jose\Desktop\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Jose\Desktop\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Benja\Desktop\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio itracion 1\Gestor de inventario\v 3\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.pdb
+C:\Users\Jose\Desktop\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.cache
+C:\Users\Jose\Desktop\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.compiled
+C:\Users\Jose\Desktop\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojAssemblyReference.cache
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\bin\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.cache
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.compiled
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\Venta\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\IronBarCode.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\IronBarCode.xml
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.compiled
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 2\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.compiled
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\x\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.cache
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.compiled
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\pruebas\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll.config
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\AlmacenYuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\biblioteca_los_yuyitos.pdb
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csprojResolveAssemblyReference.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.cache
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\RdlCompile.compiled
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.dll
+C:\Users\Benja\Desktop\anexo p\Portafolio iteracion 3\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.pdb
+C:\Users\benja\Desktop\cosas de la u\portafolio\repositorio\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\cosas de la u\portafolio\repositorio\AlmacenYuyitos\AlmacenYuyitos\obj\Debug\AlmacenYuyitos.csproj.CoreCompileInputs.cache

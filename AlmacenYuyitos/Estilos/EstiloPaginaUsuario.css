@@ -1,0 +1,153 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../Imagen/fondo9.jpg');
+    background-size: auto 100% 100%;
+    color: #ffffff;
+}
+
+header {
+    background: rgba(48, 41, 41, 100);
+    color: #ddd46b;
+    text-align: center;
+    height: 82px;
+}
+
+
+.nav1 a {
+    color: #ffffff;
+    display: inline-block;
+    text-decoration: none;
+    font-family: Arial;
+    padding: 22px 0px;
+    line-height: normal;
+    font-size: 16px;
+}
+
+    .nav1 a:hover {
+        color: #f79434;
+        border-bottom: 1px solid #f79434;
+    }
+
+section {
+    border-radius: 9px;
+    margin-top: 15px;
+    padding: 15px;
+}
+
+.main {
+    background: #404040;
+}
+
+aside {
+    background: #808080;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+#OpcionesMenu {
+    background: rgba(9, 13, 16, 1.00);
+    color: white;
+}
+
+#menuNavegacion ul {
+    list-style: none;
+    margin: 0;
+    width: 100%;
+    margin-left: -62px;
+}
+
+    #menuNavegacion ul li {
+        padding: 15px;
+        position: relative;
+        width: 240px;
+        background-color: rgba(10, 42, 62, 0.99);
+        border-left: 5px solid #f79434;
+        cursor: pointer;
+        -webkit-transition: 0.3s;
+        -o-transition: 0.3s;
+        transition: 0.3s;
+    }
+
+        #menuNavegacion ul li:hover {
+            background-color: rgba(9, 13, 16, 0.99);
+        }
+
+#menuNavegacion > ul > li {
+    border-left: 5px solid #f79434;
+}
+
+#menuNavegacion ul ul {
+    transition-duration: 0.1s;
+    opacity: 0;
+    position: absolute;
+    visibility: hidden;
+}
+
+#menuNavegacion ul li:hover > ul {
+    opacity: 1;
+    visibility: visible;
+    left: 109.5%;
+    top: 0%;
+    z-index: 100;
+}
+
+#menuNavegacion ul li a {
+    color: #d9d78a;
+    text-decoration: none;
+}
+
+#contenedor {
+    padding-bottom: 12px;
+}
+
+footer {
+    position: fixed;
+    bottom: -50px;
+    border-radius: 5px;
+    background-color: #302929;
+}
+
+/*----*/
+
+.CssBotonInforme{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+
+
+.CssInformes {
+    color: white;
+    text-align: left;
+    background: rgba(8, 18, 23, 0.98);
+    font-family: Arial;
+    width: 100%;
+    border: solid 1px white;
+    padding: 22px;
+    margin-top: 7%;
+    align-content: center;
+    z-index: 5;
+    margin-left: -40px;
+}
+
+    .CssInformes td {
+        padding: 7px;
+        padding-right: 90px;
+    }
+
+.enlacesAyuda {
+            border : solid 2px black;
+            background : white;
+            color : #ffffff;
+            padding : 4px;
+            width : 100%;
+            height : 500px;
+            overflow : auto;
+}

@@ -1,0 +1,125 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterAdmin.Master.cs" Inherits="AlmacenYuyitos.master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Almacen Los Yuyitos</title>
+    <link rel="icon" href="Imagen/logotipo%20(1).png"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+      <%-- boostrap--%>
+     <meta name="viewport" content="width=device-width" /> 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+    <link href="Estilos/EstiloPaginaUsuario.css" rel="stylesheet" />
+</head>
+<body>
+   <%-- Header--%>
+    <header >
+        <div class="container">
+            <a href="admin.aspx" class="col-xs-2 col-sm-2 col-md-1 col-lg-1" >
+                <img src="Imagen/logotipo2.png" />
+            </a>
+            <nav class="nav1">
+                <h1 class="col-xs-2 col-sm-2 col-md-5 col-lg-5" ></h1>
+                <a href="admin.aspx" class="col-xs-2 col-sm-2 col-md-2 col-lg-2" >
+                    <svg class="bi bi-house-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" d="M8 3.293l6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6zm5-.793V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z" />
+                        <path fill-rule="evenodd" d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z" />
+                    </svg>
+                    Inicio</a>
+                    <a href="ManualAyuda.aspx" class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                    <svg class="bi bi-question-square" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" d="M14 1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z" />
+                        <path d="M5.25 6.033h1.32c0-.781.458-1.384 1.36-1.384.685 0 1.313.343 1.313 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.007.463h1.307v-.355c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.326 0-2.786.647-2.754 2.533zm1.562 5.516c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z" />
+                    </svg>
+                    Ayuda</a>
+                  <asp:HyperLink ID="HyperLink1" runat="server" class="col-xs-4 col-sm-4 col-md-2 col-lg-2" NavigateUrl="~/cerrar.aspx" ><svg class="bi bi-arrow-up-right-square" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M14 1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"/>
+  <path fill-rule="evenodd" d="M10.5 5h-4a.5.5 0 0 0 0 1h2.793l-4.147 4.146a.5.5 0 0 0 .708.708L10 6.707V9.5a.5.5 0 0 0 1 0v-4a.5.5 0 0 0-.5-.5z"/>
+</svg> Cerrar sesión  </asp:HyperLink>
+            </nav>
+        </div>
+    </header>
+ <%--   Contenedor--%>
+    <div class="container">
+        <section class="main row">
+            <nav class="col-xs-12 col-sm-12 col-md-3 col-lg-3" id="menuNavegacion">
+                <ul>
+                    <li id="OpcionesMenu">
+                         <svg class="bi bi-text-indent-left" width="2em" height="2em" viewBox="0 -6 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" d="M2 3.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm.646 2.146a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1 0 .708l-2 2a.5.5 0 0 1-.708-.708L4.293 8 2.646 6.354a.5.5 0 0 1 0-.708zM7 6.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5zm0 3a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5zm-5 3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z" />
+                            </svg>
+                        <label >
+                            Opciones de menú                        
+                        </label>
+                    </li>
+                    <li><a href="">Administración de boletas
+                                   <svg class="bi bi-chevron-right" width="1em" height="1em" viewBox="0 -2 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                       <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z" />
+                                   </svg>
+                        <ul>
+                            <li><a href="ventas.aspx">Generar Ventas</a> </li>
+                            <li><a href="admin_boletas.aspx">Administrar boletas</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="">Administración de clientes
+                                   <svg class="bi bi-chevron-right" width="1em" height="1em" viewBox="0 -2 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                       <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z" />
+                                   </svg>
+                        <ul>
+                            <li><a href="registro_clientes.aspx">Registrar Clientes</a></li>
+                            <li><a href="pago_fiados.aspx">Registro Pago Fiados</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="">Administración de pedidos
+                                   <svg class="bi bi-chevron-right" width="1em" height="1em" viewBox="0 -2 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                       <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z" />
+                                   </svg>
+                        <ul>
+                            <li><a href="generador_pedidos.aspx">Generar Pedidos</a> </li>
+                            <li><a href="registro_proveedores.aspx">Registrar Proveedores</a> </li>
+                            <li><a href="recepcion_pedidos.aspx">Recepcionar Productos</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="">Administración de Productos
+                                   <svg class="bi bi-chevron-right" width="1em" height="1em" viewBox="0 -2 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                       <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z" />
+                                   </svg>
+                        <ul>
+                            <li><a href="ingreso_productos.aspx">Ingreso de Productos</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="administracion_informes.aspx">Administración de informes </a></li>
+                </ul>
+            </nav>
+
+            <aside class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
+                <form id="form1" runat="server">
+                <div id="contenedor">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        
+
+                    </asp:ContentPlaceHolder>
+                </div>
+            </form>
+
+            </aside>    
+        </section>
+    </div>
+
+<footer class="navbar navbar-fixed-bottom col-lg-12">
+    <div class="row text-center font-small">    
+            <div class="footer-copyright">
+                © Derechos reservados 2020
+            </div>
+    </div>
+
+</footer>
+
+    <%-- JQuery y boostrap--%>
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../Imagen/fondo8.jpg');
+    background-size: auto 100% 100%;
+    font-family: sans-serif;
+}
+
+.main-section {
+    margin-left: 15%;
+    margin-top: 18%;
+}
+
+.modal-content {
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.cajaLogin {
+    width: 350px;
+    height: 420px;
+    padding: 60px 48px;
+    box-sizing: border-box;
+}
+
+.imgUser {
+    width: 140px;
+    height: 140px;
+    overflow: hidden;
+    top: calc(30% - 180px);
+    left: 30%;
+    position: absolute;
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: rgb(255, 235, 140);
+}
+
+.lblUser, .lblPass {
+    font-weight: bold;
+    color: #d7d7d7;
+}
+
+.lblError {
+    font-weight: bold;
+    color: #dd7a1b;
+}
+
+.txtUser, .txtPass, .btnEnviar {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.txtPass, .txtUser {
+    border: none;
+    border-bottom: 1.5px solid #fff;
+    outline: none;
+    height: 35px;
+    color: #fff;
+    font-size: 12px;
+    background-color: transparent;
+    text-align: center;
+}
+
+
+.btnEnviar {
+    border: none;
+    outline: none;
+    height: 35px;
+    font-size: 16px;
+    color: #fafb93;
+    background-color: dimgray;
+    cursor: pointer;
+    border-radius: 14px;
+    transition: .3s ease-in-out;
+}
+
+    .btnEnviar:hover {
+        background-color: darkgrey;
+    }
+
